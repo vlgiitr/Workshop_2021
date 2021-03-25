@@ -2,7 +2,7 @@
 
 ### Instructions
 
-- Open the [VLG_Workshop_Day1_Exercise.ipynb](https://colab.research.google.com/drive/1ZoRjF9tKAti8G50I5gEQOmZ19t5SXdts?usp=sharing) notebook in [google colab](https://colab.research.google.com/).
+- Open the [VLG_Workshop_Day1_Exercise.ipynb](https://colab.research.google.com/drive/1ZoRjF9tKAti8G50I5gEQOmZ19t5SXdts?usp=sharing) notebook in google colab.
 - [Solution Notebook](https://colab.research.google.com/drive/1gxd7jcyfwbV56DhWudY5231c7Z--IIAA?usp=sharing)
 - Steps to run the code:
     - In Colab, goto: `File -> Save a copy in Drive`. Then open the Copy in your browser.
