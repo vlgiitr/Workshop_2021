@@ -2,8 +2,8 @@
 
 ### Instructions
 
-- Open the [VLG_Workshop_Day1_Exercise.ipynb](https://github.com/vlgiitr/Workshop_2021/blob/main/Day-1:%20Basics%20of%20CNNs%20and%20Pytorch/VLG_Workshop_Day1_Exercise.ipynb) notebook in [google colab](https://colab.research.google.com/).
-
+- Open the [VLG_Workshop_Day1_Exercise.ipynb](https://colab.research.google.com/drive/1ZoRjF9tKAti8G50I5gEQOmZ19t5SXdts?usp=sharing) notebook in [google colab](https://colab.research.google.com/).
+- [Solution Notebook](https://colab.research.google.com/drive/1gxd7jcyfwbV56DhWudY5231c7Z--IIAA?usp=sharing)
 - Steps to run the code:
     - In Colab, goto: `File -> Save a copy in Drive`. Then open the Copy in your browser.
     - In the copy, goto: `Runtime -> Change Runtime Type`. Select **GPU** from the drop down menu and click on **Save**.
