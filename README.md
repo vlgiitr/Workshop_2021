@@ -7,4 +7,4 @@ This repo contains the code for the workshops conducted on 25th and 26th March, 
 
 - [Day-1: Basics of CNNs and Pytorch](https://github.com/vlgiitr/Workshop_2021/tree/main/Day-1:%20Basics%20of%20CNNs%20and%20Pytorch)
 
-<!-- - [Day-2: Generative Modeling with GANs]() -->
+- [Day-2: Generative Modeling with GANs](https://github.com/vlgiitr/Workshop_2021/tree/main/Day-2:%20Generative%20Modeling%20with%20GANs)
